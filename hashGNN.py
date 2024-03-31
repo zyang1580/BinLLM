@@ -420,7 +420,7 @@ def run_a_trail(train_config,log_file=None, save_mode=False,save_file=None,need_
 #     # embedding_size_ = [32, 64, 128, 156, 512]
 #     embedding_size_ = [32]
 #     # save_path = "/data/LLM/PretrainedModels/mf/"
-#     save_path = "/home/sist/LLM/PretrainedModels/hash/"
+#     save_path = "/home/LLM/PretrainedModels/hash/"
 #     # try:
 #     #     f = open("rec_mf_search_lr"+str(lr_[0])+".log",'rw+')
 #     # except:
