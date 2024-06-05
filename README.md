@@ -6,6 +6,7 @@
 
 
 
+
 ## Step1: Following CoLLM to create environment and prepare Vicuna.
 
 ## step2: Pre-training for Text-like Encoding:
