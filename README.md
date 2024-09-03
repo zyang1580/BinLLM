@@ -3,6 +3,8 @@
 
 **This repository is constructed based on [CoLLM](https://github.com/zyang1580/CoLLM)! Read CoLLM "readme.md" to understand the code structure!**
 
+** Our trained models can be found at [here](https://rec.ustc.edu.cn/share/ddf0ccf0-5fb3-11ef-93eb-23d2eed3b4d2).**
+
 
 
 
